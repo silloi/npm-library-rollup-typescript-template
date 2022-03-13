@@ -1,0 +1,22 @@
+{
+  "name": "manzai",
+  "version": "0.0.1",
+  "description": "A parser of markup language for narratives",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silloi/manzai.git"
+  },
+  "keywords": [
+    "markup"
+  ],
+  "author": "silloi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/silloi/manzai/issues"
+  },
+  "homepage": "https://github.com/silloi/manzai#readme"
+}
