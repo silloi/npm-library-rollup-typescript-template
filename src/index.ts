@@ -1,1 +1,5 @@
-export { parseText } from "./parser";
+import { parseText } from "./parser";
+
+export default {
+  parseText,
+};

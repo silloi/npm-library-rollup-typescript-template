@@ -2,7 +2,10 @@
   "name": "manzai",
   "version": "0.0.1",
   "description": "A parser of markup language for narratives",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "module": "dist/index.es.js",
+  "browser": "dist/manzai.js",
+  "types": "types/index.d.ts",
   "scripts": {
     "build": "rollup -c",
     "lint": "eslint --fix 'src/**/*.ts'",
