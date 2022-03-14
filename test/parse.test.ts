@@ -1,4 +1,4 @@
-import { parseText } from "../src/parser";
+import { parseText } from "../src/parse";
 
 describe('test paseText', () => {
   test('pattern 1', () => {

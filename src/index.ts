@@ -1,4 +1,4 @@
-import { parseText } from "./parser";
+import { parseText } from "./parse";
 
 export default {
   parseText,
