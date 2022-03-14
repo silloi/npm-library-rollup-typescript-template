@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/silloi/manzai/issues"
   },
-  "homepage": "https://github.com/silloi/manzai#readme"
+  "homepage": "https://github.com/silloi/manzai#readme",
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
 }
