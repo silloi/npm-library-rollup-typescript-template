@@ -1,10 +1,10 @@
 {
-  "name": "manzai",
+  "name": "libname",
   "version": "0.0.1",
-  "description": "A parser of markup language for narratives",
-  "main": "dist/index.cjs.js",
-  "module": "dist/index.es.js",
-  "browser": "dist/manzai.js",
+  "description": "",
+  "main": "dist/index.cjs",
+  "module": "dist/index.mjs",
+  "browser": "dist/libname.js",
   "types": "types/index.d.ts",
   "scripts": {
     "build": "rollup -c",
@@ -30,7 +30,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/silloi/manzai.git"
+    "url": "git+https://github.com/silloi/npm-library-rollup-typescript-template.git"
   },
   "keywords": [
     "markup"
@@ -38,9 +38,9 @@
   "author": "silloi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/silloi/manzai/issues"
+    "url": "https://github.com/silloi/npm-library-rollup-typescript-template/issues"
   },
-  "homepage": "https://github.com/silloi/manzai#readme",
+  "homepage": "https://github.com/silloi/npm-library-rollup-typescript-template#readme",
   "devDependencies": {
     "@babel/core": "^7.17.5",
     "@babel/preset-env": "^7.16.11",
