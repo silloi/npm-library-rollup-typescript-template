@@ -1,7 +1,7 @@
 {
   "name": "libname",
   "version": "0.0.1",
-  "description": "",
+  "description": "A template for npm library with rollup.js and TypeScript",
   "main": "dist/index.cjs",
   "module": "dist/index.mjs",
   "browser": "dist/libname.js",
