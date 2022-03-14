@@ -1,3 +1,12 @@
-export const parseText = (text: string) => {
-  return text;
+import { ParsedText } from "../types/parse";
+
+export const parseText = (text: string): ParsedText => {
+  return {
+    header: {},
+    contents: [
+      {
+        message: text,
+      }
+    ]
+  };
 };
