@@ -16,4 +16,4 @@ A template for npm library with rollup.js and TypeScript
 
 ## Licence
 
-[MIT](https://opensource.org/licenses/MIT).
+This project is licensed under the terms of the [MIT license](https://opensource.org/licenses/MIT).
