@@ -2,7 +2,7 @@
   "name": "manzai",
   "version": "0.0.1",
   "description": "A parser of markup language for narratives",
-  "main": "dist/index.js",
+  "main": "dist/index.cjs.js",
   "module": "dist/index.es.js",
   "browser": "dist/manzai.js",
   "types": "types/index.d.ts",
